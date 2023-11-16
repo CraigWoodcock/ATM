@@ -1,2 +1,2 @@
 # This is a programme to mimic an ATM machine.
-# it will show remaining quatities of values after a withdrawal
+# it will show remaining quantities of values after a withdrawal
